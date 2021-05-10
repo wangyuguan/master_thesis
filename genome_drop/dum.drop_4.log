@@ -1,0 +1,8 @@
+GenomeDrop Version: 0.1
+./gdrop -p dum.drop.txt -s 4 
+Random number seed: 4
+Input parameter file: dum.drop.txt
+Output genotype file: dum.drop_4.geno
+No output IBD matrices file.
+Cannot open parameter file: dum.drop.txt
+Exiting...

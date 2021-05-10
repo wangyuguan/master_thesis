@@ -1,0 +1,18 @@
+GenomeDrop Version: 0.1
+./gdrop -p pedigree_data/dum.drop.txt -s 2 
+Random number seed: 2
+Input parameter file: pedigree_data/dum.drop.txt
+Output genotype file: pedigree_data/dum.drop_2.geno
+No output IBD matrices file.
+Pedigree file: mouse.ped.txt
+Study sample file: mouseIDs_one.txt
+Map file: mouse.map.txt
+Missing genotype rate: 0.05
+Allelic error rate: 0.2
+Successfully read pedigree.
+Number in the study sample: 208
+Reading map file: mouse.map.txt
+Genome has 20 chromosomes.
+Completed gene dropping simulation.
+Successfully output the genotypes.
+Successfully output the true genotypes.

@@ -1,0 +1,7 @@
+mouse.ped.txt        # ped file
+mouseIDs_one.txt     # to be genotyped sample
+#mouse.samp.txt 
+mouse.map.txt   # map file
+# This is a comment line
+.05	  # missing genotype rate
+.2	  # allelic error rate
